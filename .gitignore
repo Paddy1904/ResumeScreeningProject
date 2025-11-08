@@ -1,0 +1,8 @@
+myenv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Optional: ignore model artifacts if you don't want them in VCS
+# *.pkl
